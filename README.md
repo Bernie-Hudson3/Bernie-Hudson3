@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bernard</h1>
+<h1 align="center">Hi 👋⛳, I'm Bernard</h1>
 <h3 align="center">Currently bridging laboratory science, and enterprise IT infrastructure.</h3>
 
 - 🔭 I’m currently working on **learning more about the backend of technology**
