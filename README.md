@@ -1,21 +1,52 @@
-<h1 align="center">Hi 👋⛳, I'm Bernard</h1>
-<h3 align="center">Currently bridging laboratory science, and enterprise IT infrastructure.</h3>
+# Hi, I'm Bernard Hudson
 
-- 🔭 I’m currently working on **learning more about soft**
+**IT Data Manager | Lab Information Systems | Network & Security Professional**
 
-- 🌱 I’m currently learning **Learning about AWS (Working on AWS Solutions Architect Certification**
+I work at the intersection of Information Technology, healthcare, and laboratory operations. I'm currently the IT Data Manager for the Laboratory Information System at the Philadelphia Public Health Department, and I'm passionate about building practical tools & processes that make technical work easier for the people who use/depend on it.
 
-- 👯 I’m looking to collaborate on **Anything**
+## What I Do
 
-- 🤝 I’m looking for help with **Projects for Beginners & ways to get my hands dirty**
+- Manage laboratory IT operations, including lab applications, networked devices, and lab analyzer software
+- Support Laboratory Information Systems (LIS) and EMR integrations
+- Bring a network engineering and security background to healthcare and public health environments
 
-- 📫 How to reach me **behudson3@outlook.com**
+## Experience
 
-- 📄 Know about my experiences [https://1drv.ms/b/c/1322a8797f973102/IQDCmC8GiHERQoURqIDOqwsRAew1I0UQlmdMhu4tBRv5QIk?e=36c5Z1](https://1drv.ms/b/c/1322a8797f973102/IQDCmC8GiHERQoURqIDOqwsRAew1I0UQlmdMhu4tBRv5QIk?e=36c5Z1)
+| Role | Organization |
+|------|--------------|
+| IT Data Manager, Lab Information System | Philadelphia Public Health Department |
+| Network Engineer II (started as an intern) | NMS Labs |
 
-- ⚡ Fun fact **My nickname is Trey**
+## Education & Certifications
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bernard-hudson-iii-a658861b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bernard-hudson-iii-a658861b5/" height="30" width="40" /></a>
-</p>
+- **B.S. Business Management**, Western Governors University
+- **CompTIA Security+**
+- **CompTIA Network+**
+- Working toward **AWS Solutions Architect**
+
+## Tools & Technologies
+
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![Intune](https://img.shields.io/badge/Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+- Microsoft 365 administration and Intune device management
+- Network administration (Cisco), Enterprise systems administration, and lab systems administration
+- Docker
+
+## Currently
+
+- Studying for the **AWS Solutions Architect** certification
+- Building a Lab asset management platform utilizing **Snip-IT** and **Docker**
+- Exploring **Claude Code** and other AI tools to enhance productivity and automate processes
+- Looking for Projects for Beginners & ways to get more hands-on in software development 
+
+## Let's Connect
+
+-  [LinkedIn](https://linkedin.com/in/bernard-hudson-iii-a658861b5)
+
+---
+
+*Always Learning, Always Building, Always Growing.*
